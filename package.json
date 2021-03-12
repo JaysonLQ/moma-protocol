@@ -1,0 +1,25 @@
+{
+  "name": "moma-protocol",
+  "version": "1.0.0",
+  "description": "The Money Market",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/moma-finance/moma-protocol.git"
+  },
+  "keywords": [
+    "Launch",
+    "Lending",
+    "MOMA",
+    "DeFi"
+  ],
+  "author": "Moma Finance",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/moma-finance/moma-protocol/issues"
+  },
+  "homepage": "https://github.com/moma-finance/moma-protocol#readme"
+}
